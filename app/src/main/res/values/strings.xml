@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mascota</string>
+
+    <string name="mascota1">perro feliz</string>
+
+    <string name="textmascota1">perro feliz</string>
+    <string name="textmascota2">perro peque</string>
+    <string name="textmascota3">perro orejon</string>
+    <string name="textmascota4">perro lanudo</string>
+    <string name="textmascota5">perro negro</string>
+
+    <string name="contentdescriptionactionbar">action bar with button</string>
+    <string name="contentdescription_huesoamarillo">hueso amarillo</string>
+    <string name="contentdescription_huesoblanco">hueso blanco</string>
+
+    <string name="button_lista_mascotas">editar datos</string>
+
+</resources>
