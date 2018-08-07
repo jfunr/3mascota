@@ -10,10 +10,20 @@
 
 
 
-    <style name="MyButton" parent="Theme.AppCompat.Light">
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:colorButtonNormal">@color/colorAccent</item>
         <item name="android:colorControlHighlight">@color/colorPrimary</item>
         <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme3" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="cardViewStyle">@style/CardView</item>
     </style>
 
 </resources>

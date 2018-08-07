@@ -15,4 +15,6 @@
 
     <string name="button_lista_mascotas">editar datos</string>
 
+    <string name="rate">50</string>
+
 </resources>
